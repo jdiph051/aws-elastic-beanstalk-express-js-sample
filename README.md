@@ -27,7 +27,12 @@ artifacts:
     files:
         - '**/*'
 	
-	
+# Create CI/CD Pipeline
+
+Set up a continuous delivery pipeline using AWS CodePipeline to configure a source stage using GitHub repo
+Configure a build stage using AWS CodeBuild
+Configure a deploy stage using AWS ElasticBeanstalk application
+Then deploy the application hosted on GitHub to ElasticBeanstalk through a pipeline which will allows developers to release software more quickly by automating the build, test and deploy processes.
 
 
 
