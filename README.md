@@ -8,5 +8,13 @@ This repository contains a sample Node.js web application built using [Express](
 
 Create a code repository containing a simple Node.js web app to trigger a continuous delivery pipeline
 
+# AWS Elastic Beanstalk
+
+Create and deploy a web application using AWS Elastic Beanstalk environment
+
+# Built Project
+
+Use AWS CodeBuild to build the source code stored in our GitHub repository
+
 
 
