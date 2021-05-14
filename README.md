@@ -56,7 +56,7 @@ Link:https://github.com/jdiph051/aws-elastic-beanstalk-express-js-sample
 
 4. Open deployed web application
 
-Link:didatadevopsgettingstarted-env.eba-mbiyhaci.us-east-2.elasticbeanstalk.com
+Link: didatadevopsgettingstarted-env.eba-mbiyhaci.us-east-2.elasticbeanstalk.com
 
 5. New changes should be displayed in less than 3min after the code has been committed
 
