@@ -16,5 +16,18 @@ Create and deploy a web application using AWS Elastic Beanstalk environment
 
 Use AWS CodeBuild to build the source code stored in our GitHub repository
 
+# -> Buildspec File
+
+version: 0.2
+phases:
+    build:
+        commands:
+            - npm i --save
+artifacts:
+    files:
+        - '**/*'
+	
+	
+
 
 
