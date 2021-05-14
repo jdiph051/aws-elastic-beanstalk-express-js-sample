@@ -44,3 +44,21 @@ Then deploy the application hosted on GitHub to ElasticBeanstalk through a pipel
 
 
 
+# Instructions to execute and test the solution..!!
+
+1. Navigate to the Github Repo:-
+
+Link:https://github.com/jdiph051/aws-elastic-beanstalk-express-js-sample
+
+2. Open apps.js file and edit the code in line 5  
+
+3. Commit the code (CodePipeline will automatically trigger CodeBuild and deploy changes committed)
+
+4. Open deployed web application
+
+Link:didatadevopsgettingstarted-env.eba-mbiyhaci.us-east-2.elasticbeanstalk.com
+
+5. New changes should be displayed in less than 3min after the code has been committed
+
+6. Repeat steps 2 through 3 to see continues integration
+
