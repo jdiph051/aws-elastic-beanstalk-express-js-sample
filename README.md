@@ -4,6 +4,14 @@
 
 This repository contains a sample Node.js web application built using [Express](https://expressjs.com/), to be used in Di_Data CI/CD Pipeline..!!
 
+# Prerequisites:-
+
+○ A Github account
+○ A sample application to be deployed
+○ AWS Elastic Beanstalk
+○ AWS CodeBuild
+○ AWS CodePipeline
+
 # Github
 
 Create a code repository containing a simple Node.js web app to trigger a continuous delivery pipeline
